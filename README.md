@@ -63,7 +63,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
@@ -351,7 +351,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
 
-- [ ] [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
+- [x] [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
 
 - [ ] [TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
 
