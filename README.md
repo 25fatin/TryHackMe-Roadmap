@@ -85,11 +85,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
-- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
-- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [N/A] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
@@ -115,9 +115,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [x] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-- [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [x] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
 - [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
@@ -125,7 +125,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
-- [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
+- [N/A] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
@@ -137,15 +137,15 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [x] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
-- [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
+- [x] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
-- [ ] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
+- [N/A] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
 - [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
@@ -155,15 +155,15 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [x] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
+- [N/A] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -171,37 +171,37 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+- [x] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-- [ ] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
+- [x] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
 
-- [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
+- [x] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-- [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+- [x] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
-- [ ] [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
+- [N/A] [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
 
-- [ ] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
+- [x] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
-- [ ] [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
+- [x] [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 
 - [ ] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
 
-- [ ] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
+- [x] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
 - [ ] [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
 - [ ] [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 
-- [ ] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+- [x] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
 - [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
 - [ ] [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
-- [ ] [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
+- [x] [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
 ## Crypto & Hashes
 
@@ -237,19 +237,19 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
+- [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
-- [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
+- [N/A] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
 
-- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
+- [N/A] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-- [ ] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
+- [N/A] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
-- [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
+- [N/A] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
-- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
+- [x] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
-- [ ] [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
+- [N/A] [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
 
 - [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
@@ -273,11 +273,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
 
-- [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
+- [x] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
 - [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-
-- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
 - [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
@@ -315,13 +313,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
+- [x] [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
 ## Reverse Engineering
 
 ---
 
-- [ ] [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
+- [] [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
 
 - [ ] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 
@@ -345,7 +343,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
+- [x] [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
 
 - [x] [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
