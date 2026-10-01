@@ -299,7 +299,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
+- [x] [TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
 
 - [ ] [TryHackMe | Forensics](https://tryhackme.com/room/forensics)
 
