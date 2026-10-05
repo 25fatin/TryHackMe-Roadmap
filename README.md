@@ -423,7 +423,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
+- [x] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
 
 - [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 
